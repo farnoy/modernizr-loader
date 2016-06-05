@@ -12,7 +12,7 @@
   "author": "Markus Dobmann <markus.dobmann@peerigon.com>",
   "license": "MIT",
   "peerDependencies": {
-    "modernizr": "^3.3.1"
+    "modernizr": "git+https://github.com/Modernizr/Modernizr.git"
   },
   "devDependencies": {
     "eslint": "^1.9.0",
